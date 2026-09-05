@@ -1,8 +1,9 @@
 ## Hello
 
-I'm a first year cs student at Waterloo interning @ Viggle. My main interests are
-- MMO architecture/design
-- Procedural generation
+I'm a second year cs student at waterloo
+- Prev interned at Viggle (a16z)
+- Published go packages for procedural generation
+- Made multiplayer game over 1k accounts created
 
 I publish my coolest projects [here](https://github.com/studio-imperium)
 
